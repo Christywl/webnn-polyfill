@@ -1,5 +1,7 @@
 # WebNN Polyfill
 
+[![build Actions Status](https://github.com/BruceDai/webnn-polyfill/workflows/windows/badge.svg)](https://github.com/BruceDai/webnn-polyfill/actions) [![build Actions Status](https://github.com/BruceDai/webnn-polyfill/workflows/linux/badge.svg)](https://github.com/BruceDai/webnn-polyfill/actions)
+
 A JavaScript implementation of the [Web Neural Network API](https://webmachinelearning.github.io/webnn/).
 
 * [API docs](https://webmachinelearning.github.io/webnn-polyfill/docs/)
